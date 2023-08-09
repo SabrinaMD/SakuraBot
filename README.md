@@ -35,7 +35,7 @@ git clone https://github.com/Scheyot2/sakura-botv6.9.5.git
 ```
 **💮5° Comando✓**
 ```
-cd /sdcard/mashle-bot
+cd /sdcard/sakura-botv6.9.5
 ```
 
 ## 🦄•INICIAR A BOT•🦄 <img src="https://user-images.githubusercontent.com/108157095/182053901-78e4a217-51ba-42a3-8ec5-38ed978ad752.png" height="25px">
